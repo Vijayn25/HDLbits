@@ -1,3 +1,6 @@
+
+// to write code for top module 
+
 module top_module ( 
     input a, 
     input b, 
